@@ -145,11 +145,11 @@ The direct diagnostic IDs provide lower-level failure classification not forward
 
 Detailed signal maps, bit definitions, scaling proofs, and unit test suites are available in the dedicated reference documents:
 
-* [`vecu_uds_parameters_reference.md`](./vecu_uds_parameters_reference.md): Vehicle Electronic Control Unit parameter catalog (68 parameters).
-* [`bms_uds_parameters_reference.md`](./bms_uds_parameters_reference.md): High-Voltage Battery Management System parameter catalog (42 parameters).
-* [`mcu_uds_parameters_reference.md`](./mcu_uds_parameters_reference.md): Traction Inverter & Motor Control Unit parameter catalog (15 parameters).
-* [`dcdc_uds_parameters_reference.md`](./dcdc_uds_parameters_reference.md): High-to-Low Voltage DC-DC Auxiliary Converter catalog (20 parameters).
-* [`obc_uds_parameters_reference.md`](./obc_uds_parameters_reference.md): On-Board AC Grid Charger & Bidirectional V2L converter catalog (29 parameters).
+* [`vecu_uds_parameters_reference.md`](vecu_uds_diagnostic_parameters_reference_manual.md): Vehicle Electronic Control Unit parameter catalog (68 parameters).
+* [`bms_uds_parameters_reference.md`](battery_management_system_bms_uds_diagnostic_parameters_reference_manual.md): High-Voltage Battery Management System parameter catalog (42 parameters).
+* [`mcu_uds_parameters_reference.md`](mcu_uds_diagnostic_parameters_reference_manual.md): Traction Inverter & Motor Control Unit parameter catalog (15 parameters).
+* [`dcdc_uds_parameters_reference.md`](dcdc_converter_uds_diagnostic_parameters_reference_manual.md): High-to-Low Voltage DC-DC Auxiliary Converter catalog (20 parameters).
+* [`obc_uds_parameters_reference.md`](on_board_charger_obc_uds_diagnostic_parameters_reference_manual.md): On-Board AC Grid Charger & Bidirectional V2L converter catalog (29 parameters).
 
 ---
 
